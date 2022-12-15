@@ -1,5 +1,5 @@
 {
-  "name": "computer-cli",
+  "name": "@jialidexiwang/cli",
   "version": "1.0.0",
   "description": "My cli tools",
   "main": "index.js",
@@ -14,7 +14,7 @@
     "url": "git+https://github.com/JackyFreedom/computer-cli.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "jialidexiwang",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/JackyFreedom/computer-cli/issues"
