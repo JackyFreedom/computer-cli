@@ -1,0 +1,14 @@
+#!/usr/bin/env bash
+
+if [ -n "$1" ]; then
+    git add .
+    git commit -m "$1"
+    git pull
+    git push
+    echo "提交成功"
+
+else
+
+   echo "请添加注释再来一遍"
+
+fi
